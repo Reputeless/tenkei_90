@@ -10,4 +10,5 @@
 
 ### 関連リンク
 - [競プロ典型 90 問 - AtCoder コンテストページ](https://atcoder.jp/contests/typical90)
-- [競プロ典型 90 問 - 公式リポジトリ](https://github.com/E869120/kyopro_educational_90)
+- [競プロ典型 90 問 - GitHub 公式リポジトリ](https://github.com/E869120/kyopro_educational_90)
+- [AtCoder での実力アップを目指そう！ ～競プロ典型 90 問～ - Qiita](https://qiita.com/e869120/items/1b2a5f0f07fd927e44e9)
