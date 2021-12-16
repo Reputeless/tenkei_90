@@ -4,6 +4,8 @@
 
 競技プログラミング固有のハックやスタイル（`<bits/stdc++.h>`, 大きな配列、マクロ、`using namespace std` 等）の使用を避けているため、一般的な C++ ソフトウェア開発でも使える、また C++ 標準ライブラリの機能 (`std::` から始まる) を意識したコーディングの練習ができます。  
 
+### ★2
+
 |問題|タイトル (解答コードへのリンク)|難易度|公式解説|キーワード (公式解説から引用)|
 |:--:|--|:--:|:--:|--|
 |[004](https://atcoder.jp/contests/typical90/tasks/typical90_d)|[Cross Sum](./004.md)|★2|[📝](https://raw.githubusercontent.com/E869120/kyopro_educational_90/main/editorial/004.jpg)|扱いやすい形にして前計算しよう|
@@ -16,6 +18,31 @@
 |[061](https://atcoder.jp/contests/typical90/tasks/typical90_bi)|[Deck](./061.md)|★2|[📝](https://raw.githubusercontent.com/E869120/kyopro_educational_90/main/editorial/061.jpg)|deque を知っていますか？|
 |[067](https://atcoder.jp/contests/typical90/tasks/typical90_bo)|[Base 8 to 9](./067.md)|★2|[📝](https://raw.githubusercontent.com/E869120/kyopro_educational_90/main/editorial/067.jpg)|N 進法展開を理解しよう|
 |[078](https://atcoder.jp/contests/typical90/tasks/typical90_bz)|[Easy Graph Problem](./078.md)|★2|[📝](https://raw.githubusercontent.com/E869120/kyopro_educational_90/main/editorial/078.jpg)|グラフの基本を知ろう|
+
+### ★3
+
+|問題|タイトル (解答コードへのリンク)|難易度|公式解説|キーワード (公式解説から引用)|
+|:--:|--|:--:|:--:|--|
+
+### ★4
+
+|問題|タイトル (解答コードへのリンク)|難易度|公式解説|キーワード (公式解説から引用)|
+|:--:|--|:--:|:--:|--|
+
+### ★5
+
+|問題|タイトル (解答コードへのリンク)|難易度|公式解説|キーワード (公式解説から引用)|
+|:--:|--|:--:|:--:|--|
+
+### ★6
+
+|問題|タイトル (解答コードへのリンク)|難易度|公式解説|キーワード (公式解説から引用)|
+|:--:|--|:--:|:--:|--|
+
+### ★7
+
+|問題|タイトル (解答コードへのリンク)|難易度|公式解説|キーワード (公式解説から引用)|
+|:--:|--|:--:|:--:|--|
 
 
 ### 参考リンク
