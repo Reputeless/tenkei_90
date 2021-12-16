@@ -1,4 +1,4 @@
-# C++17 で解く競プロ典型 90 問
+# C++17 で解く「競プロ典型 90 問」
 
 |問題|タイトル (解答コードへのリンク)|難易度|公式解説|キーワード (公式解説から引用)|
 |:--:|--|:--:|:--:|--|
@@ -7,3 +7,7 @@
 |[022](https://atcoder.jp/contests/typical90/tasks/typical90_v)|[Cubic Cake](./022.md)|★2|[📝](https://raw.githubusercontent.com/E869120/kyopro_educational_90/main/editorial/022.jpg)|最大公約数はユークリッドの互除法|
 |[024](https://atcoder.jp/contests/typical90/tasks/typical90_x)|[Select +／- One](./024.md)|★2|[📝](https://raw.githubusercontent.com/E869120/kyopro_educational_90/main/editorial/024.jpg)|パリティを考える|
 
+
+### 関連リンク
+- [競プロ典型 90 問 - AtCoder コンテストページ](https://atcoder.jp/contests/typical90)
+- [競プロ典型 90 問 - 公式リポジトリ](https://github.com/E869120/kyopro_educational_90)
