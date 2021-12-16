@@ -2,4 +2,4 @@
 
 |問題|タイトル|難易度|
 |--|--|--|
-|010|[Score Sum Queries](problem/010.md)|★2|
+|010|[Score Sum Queries](./010.md)|★2|
