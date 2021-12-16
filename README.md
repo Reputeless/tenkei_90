@@ -10,7 +10,13 @@
 |[010](https://atcoder.jp/contests/typical90/tasks/typical90_j)|[Score Sum Queries](./010.md)|★2|[📝](https://raw.githubusercontent.com/E869120/kyopro_educational_90/main/editorial/010.jpg)|区間の総和は累積和|
 |[022](https://atcoder.jp/contests/typical90/tasks/typical90_v)|[Cubic Cake](./022.md)|★2|[📝](https://raw.githubusercontent.com/E869120/kyopro_educational_90/main/editorial/022.jpg)|最大公約数はユークリッドの互除法|
 |[024](https://atcoder.jp/contests/typical90/tasks/typical90_x)|[Select +／- One](./024.md)|★2|[📝](https://raw.githubusercontent.com/E869120/kyopro_educational_90/main/editorial/024.jpg)|パリティを考える|
+|[027](https://atcoder.jp/contests/typical90/tasks/typical90_aa)|[Sign Up Requests](./027.md)|★2|[📝](https://raw.githubusercontent.com/E869120/kyopro_educational_90/main/editorial/027.jpg)|map を使いこなそう|
 |[033](https://atcoder.jp/contests/typical90/tasks/typical90_ag)|[Not Too Bright](./033.md)|★2|[📝](https://raw.githubusercontent.com/E869120/kyopro_educational_90/main/editorial/033.jpg)|コーナーケースに気を付けよう|
+|[055](https://atcoder.jp/contests/typical90/tasks/typical90_bc)|[Select 5](./055.md)|★2|[📝](https://raw.githubusercontent.com/E869120/kyopro_educational_90/main/editorial/055.jpg)|「定数倍」を見積もる|
+|[061](https://atcoder.jp/contests/typical90/tasks/typical90_bi)|[Deck](./061.md)|★2|[📝](https://raw.githubusercontent.com/E869120/kyopro_educational_90/main/editorial/061.jpg)|deque を知っていますか？|
+|[067](https://atcoder.jp/contests/typical90/tasks/typical90_bo)|[Base 8 to 9](./067.md)|★2|[📝](https://raw.githubusercontent.com/E869120/kyopro_educational_90/main/editorial/067.jpg)|N 進法展開を理解しよう|
+|[078](https://atcoder.jp/contests/typical90/tasks/typical90_bz)|[Easy Graph Problem](./078.md)|★2|[📝](https://raw.githubusercontent.com/E869120/kyopro_educational_90/main/editorial/078.jpg)|グラフの基本を知ろう|
+
 
 ### 参考リンク
 - [競プロ典型 90 問 - AtCoder コンテストページ](https://atcoder.jp/contests/typical90)
