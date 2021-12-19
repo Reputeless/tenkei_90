@@ -1,14 +1,14 @@
 # C++17 で解く「競プロ典型 90 問」
 
-**「競プロ典型 90 問」** を、わかりやすい C++17 コードで解く、[@Reputeless](https://twitter.com/Reputeless) によるプロジェクトです。  
+**「競プロ典型 90 問」** を標準的な C++17 コードで解く、[@Reputeless](https://twitter.com/Reputeless) によるプロジェクトです。  
 
-競技プログラミング固有のハックやスタイル（`<bits/stdc++.h>`, 大きな配列、マクロ、`using namespace std` 等）の使用を避けているため、一般的な C++ ソフトウェア開発でも使える、また C++ 標準ライブラリの機能 (`std::` から始まる) を意識したコーディングの練習ができます。  
+C++17 標準ライブラリの機能を優先して使い、競技プログラミング固有のハックやスタイル（`<bits/stdc++.h>`, 大きな配列、マクロ、`using namespace std` 等）の使用を避けているため、一般的な C++ ソフトウェア開発で再利用できる、モダン C++ の標準を意識したコーディングの練習ができます。  
 
 不具合や改善案は、このリポジトリの Issue よりご報告ください。
 
 ### ★2
 
-|問題|タイトル (解答コードへのリンク)|難易度|公式解説|キーワード (公式解説から引用)|
+|問題|タイトル (C++17 解答コードへのリンク)|難易度|公式解説|キーワード (公式解説から引用)|
 |:--:|--|:--:|:--:|--|
 |[004](https://atcoder.jp/contests/typical90/tasks/typical90_d)|[Cross Sum](./004.md)|★2|[📝](https://raw.githubusercontent.com/E869120/kyopro_educational_90/main/editorial/004.jpg)|扱いやすい形にして前計算しよう|
 |[010](https://atcoder.jp/contests/typical90/tasks/typical90_j)|[Score Sum Queries](./010.md)|★2|[📝](https://raw.githubusercontent.com/E869120/kyopro_educational_90/main/editorial/010.jpg)|区間の総和は累積和|
@@ -23,13 +23,13 @@
 
 ### ★3
 
-|問題|タイトル (解答コードへのリンク)|難易度|公式解説|キーワード (公式解説から引用)|
+|問題|タイトル (C++17 解答コードへのリンク)|難易度|公式解説|キーワード (公式解説から引用)|
 |:--:|--|:--:|:--:|--|
 |[002](https://atcoder.jp/contests/typical90/tasks/typical90_b)|[Encyclopedia of Parentheses](./002.md)|★3|[📝](https://raw.githubusercontent.com/E869120/kyopro_educational_90/main/editorial/002.jpg)|小さい制約は全探索を考えよう|
 |[007](https://atcoder.jp/contests/typical90/tasks/typical90_g)|[CP Classes](./007.md)|★3|[📝](https://raw.githubusercontent.com/E869120/kyopro_educational_90/main/editorial/007.jpg)|要素の検索はソートして二分探索|
 |[014](https://atcoder.jp/contests/typical90/tasks/typical90_n)|[We Used to Sing a Song Together](./014.md)|★3|[📝](https://raw.githubusercontent.com/E869120/kyopro_educational_90/main/editorial/014.jpg)|ソートして貪欲法|
-|016| | | | |
-|018| | | | |
+|[016](https://atcoder.jp/contests/typical90/tasks/typical90_p)|[Minimum Coins](./016.md)|★3|[📝](https://raw.githubusercontent.com/E869120/kyopro_educational_90/main/editorial/016.jpg)|工夫した全探索|
+|[018](https://atcoder.jp/contests/typical90/tasks/typical90_r)|[Statue of Chokudai](./018.md)|★3|[📝](https://raw.githubusercontent.com/E869120/kyopro_educational_90/main/editorial/018.jpg)|三角関数を使いこなそう|
 |020| | | | |
 |032| | | | |
 |038| | | | |
@@ -48,22 +48,22 @@
 
 ### ★4
 
-|問題|タイトル (解答コードへのリンク)|難易度|公式解説|キーワード (公式解説から引用)|
+|問題|タイトル (C++17 解答コードへのリンク)|難易度|公式解説|キーワード (公式解説から引用)|
 |:--:|--|:--:|:--:|--|
 
 ### ★5
 
-|問題|タイトル (解答コードへのリンク)|難易度|公式解説|キーワード (公式解説から引用)|
+|問題|タイトル (C++17 解答コードへのリンク)|難易度|公式解説|キーワード (公式解説から引用)|
 |:--:|--|:--:|:--:|--|
 
 ### ★6
 
-|問題|タイトル (解答コードへのリンク)|難易度|公式解説|キーワード (公式解説から引用)|
+|問題|タイトル (C++17 解答コードへのリンク)|難易度|公式解説|キーワード (公式解説から引用)|
 |:--:|--|:--:|:--:|--|
 
 ### ★7
 
-|問題|タイトル (解答コードへのリンク)|難易度|公式解説|キーワード (公式解説から引用)|
+|問題|タイトル (C++17 解答コードへのリンク)|難易度|公式解説|キーワード (公式解説から引用)|
 |:--:|--|:--:|:--:|--|
 
 
