@@ -1,8 +1,10 @@
 # C++17 で解く「競プロ典型 90 問」
 
-**「競プロ典型 90 問」** を、ほぼすべての行にコメントのある、わかりやすい C++17 コードで解く、[@Reputeless](https://twitter.com/Reputeless) によるプロジェクトです。  
+**「競プロ典型 90 問」** を、わかりやすい C++17 コードで解く、[@Reputeless](https://twitter.com/Reputeless) によるプロジェクトです。  
 
 競技プログラミング固有のハックやスタイル（`<bits/stdc++.h>`, 大きな配列、マクロ、`using namespace std` 等）の使用を避けているため、一般的な C++ ソフトウェア開発でも使える、また C++ 標準ライブラリの機能 (`std::` から始まる) を意識したコーディングの練習ができます。  
+
+不具合や改善案は、このリポジトリの Issue よりご報告ください。
 
 ### ★2
 
@@ -48,5 +50,6 @@
 ### 参考リンク
 - [競プロ典型 90 問 - AtCoder コンテストページ](https://atcoder.jp/contests/typical90)
 - [競プロ典型 90 問 - GitHub 公式リポジトリ](https://github.com/E869120/kyopro_educational_90)
+- [競プロ典型 90 問 - テストケース](https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAC-L790bxKBVkmB6pdMUgk4a/typical90?dl=0&subfolder_nav_tracking=1)
 - [AtCoder での実力アップを目指そう！ ～競プロ典型 90 問～ - Qiita](https://qiita.com/e869120/items/1b2a5f0f07fd927e44e9)
 - [「競プロ典型90問」非公式難易度表・ソースコード共有 - Google スプレッドシート](https://docs.google.com/spreadsheets/d/1GG4Higis4n4GJBViVltjcbuNfyr31PzUY_ZY1zh2GuI/edit#gid=0)
