@@ -1,6 +1,6 @@
 # C++17 で解く「競プロ典型 90 問」
 
-**「競プロ典型 90 問」** Wを、わかりやすい C++17 コードで解く、[@Reputeless](https://twitter.com/Reputeless) によるプロジェクトです。  
+**「競プロ典型 90 問」** を、わかりやすい C++17 コードで解く、[@Reputeless](https://twitter.com/Reputeless) によるプロジェクトです。  
 
 競技プログラミング固有のハックやスタイル（`<bits/stdc++.h>`, 大きな配列、マクロ、`using namespace std` 等）の使用を避けているため、一般的な C++ ソフトウェア開発でも使える、また C++ 標準ライブラリの機能 (`std::` から始まる) を意識したコーディングの練習ができます。  
 
@@ -25,8 +25,8 @@
 
 |問題|タイトル (解答コードへのリンク)|難易度|公式解説|キーワード (公式解説から引用)|
 |:--:|--|:--:|:--:|--|
-|[002](https://atcoder.jp/contests/typical90/tasks/typical90_bz)|[Encyclopedia of Parentheses](./002.md)|★3|[📝](https://raw.githubusercontent.com/E869120/kyopro_educational_90/main/editorial/002.jpg)|小さい制約は全探索を考えよう|
-|007| | | | |
+|[002](https://atcoder.jp/contests/typical90/tasks/typical90_b)|[Encyclopedia of Parentheses](./002.md)|★3|[📝](https://raw.githubusercontent.com/E869120/kyopro_educational_90/main/editorial/002.jpg)|小さい制約は全探索を考えよう|
+|[007](https://atcoder.jp/contests/typical90/tasks/typical90_g)|[CP Classes](./007.md)|★3|[📝](https://raw.githubusercontent.com/E869120/kyopro_educational_90/main/editorial/007.jpg)|要素の検索はソートして二分探索|
 |014| | | | |
 |016| | | | |
 |018| | | | |
