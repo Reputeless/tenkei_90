@@ -27,7 +27,7 @@
 |:--:|--|:--:|:--:|--|
 |[002](https://atcoder.jp/contests/typical90/tasks/typical90_b)|[Encyclopedia of Parentheses](./002.md)|★3|[📝](https://raw.githubusercontent.com/E869120/kyopro_educational_90/main/editorial/002.jpg)|小さい制約は全探索を考えよう|
 |[007](https://atcoder.jp/contests/typical90/tasks/typical90_g)|[CP Classes](./007.md)|★3|[📝](https://raw.githubusercontent.com/E869120/kyopro_educational_90/main/editorial/007.jpg)|要素の検索はソートして二分探索|
-|014| | | | |
+|[014](https://atcoder.jp/contests/typical90/tasks/typical90_n)|[We Used to Sing a Song Together](./014.md)|★3|[📝](https://raw.githubusercontent.com/E869120/kyopro_educational_90/main/editorial/014.jpg)|ソートして貪欲法|
 |016| | | | |
 |018| | | | |
 |020| | | | |
