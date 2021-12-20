@@ -33,7 +33,7 @@ C++17 標準ライブラリの機能を優先して使い、競技プログラ�
 |[020](https://atcoder.jp/contests/typical90/tasks/typical90_t)|[Log Inequality](./020.md)|★3|[👨‍🏫](https://raw.githubusercontent.com/E869120/kyopro_educational_90/main/editorial/020.jpg) / [📝](https://github.com/E869120/kyopro_educational_90/blob/main/sol/020.cpp)|整数で処理して誤差をなくそう|
 |[032](https://atcoder.jp/contests/typical90/tasks/typical90_af)|[AtCoder Ekiden](./032.md)|★3|[👨‍🏫](https://raw.githubusercontent.com/E869120/kyopro_educational_90/main/editorial/032.jpg) / [📝](https://github.com/E869120/kyopro_educational_90/blob/main/sol/032.cpp)|小さい制約は順列全探索|
 |[038](https://atcoder.jp/contests/typical90/tasks/typical90_af)|[Large LCM](./038.md)|★3|[👨‍🏫](https://raw.githubusercontent.com/E869120/kyopro_educational_90/main/editorial/038.jpg) / [📝](https://github.com/E869120/kyopro_educational_90/blob/main/sol/038.cpp)|オーバーフローに注意|
-|044| | | | |
+|[044](https://atcoder.jp/contests/typical90/tasks/typical90_ar)|[Shift and Swapping](./044.md)|★3|[👨‍🏫](https://raw.githubusercontent.com/E869120/kyopro_educational_90/main/editorial/044.jpg) / [📝](https://github.com/E869120/kyopro_educational_90/blob/main/sol/044.cpp)|見かけ上の変化をメモ|
 |046| | | | |
 |048| | | | |
 |050| | | | |
