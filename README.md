@@ -35,7 +35,7 @@ C++17 標準ライブラリの機能を優先して使い、競技プログラ�
 |[038](https://atcoder.jp/contests/typical90/tasks/typical90_af)|[Large LCM](./038.md)|★3|[👨‍🏫](https://raw.githubusercontent.com/E869120/kyopro_educational_90/main/editorial/038.jpg) / [📝](https://github.com/E869120/kyopro_educational_90/blob/main/sol/038.cpp)|オーバーフローに注意|
 |[044](https://atcoder.jp/contests/typical90/tasks/typical90_ar)|[Shift and Swapping](./044.md)|★3|[👨‍🏫](https://raw.githubusercontent.com/E869120/kyopro_educational_90/main/editorial/044.jpg) / [📝](https://github.com/E869120/kyopro_educational_90/blob/main/sol/044.cpp)|見かけ上の変化をメモ|
 |[046](https://atcoder.jp/contests/typical90/tasks/typical90_at)|[I Love 46](./046.md)|★3|[👨‍🏫](https://raw.githubusercontent.com/E869120/kyopro_educational_90/main/editorial/046.jpg) / [📝](https://github.com/E869120/kyopro_educational_90/blob/main/sol/046.cpp)|同じ意味のものをまとめて考える|
-|048| | | | |
+|[048](https://atcoder.jp/contests/typical90/tasks/typical90_av)|[I will not drop out](./048.md)|★3|[👨‍🏫](https://raw.githubusercontent.com/E869120/kyopro_educational_90/main/editorial/048.jpg) / [📝](https://github.com/E869120/kyopro_educational_90/blob/main/sol/048.cpp)|上界と下界を見積もる|
 |050| | | | |
 |052| | | | |
 |064| | | | |
