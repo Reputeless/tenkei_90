@@ -37,7 +37,7 @@ C++17 標準ライブラリの機能を優先して使い、競技プログラ�
 |[046](https://atcoder.jp/contests/typical90/tasks/typical90_at)|[I Love 46](./046.md)|★3|[👨‍🏫](https://raw.githubusercontent.com/E869120/kyopro_educational_90/main/editorial/046.jpg) / [📝](https://github.com/E869120/kyopro_educational_90/blob/main/sol/046.cpp)|同じ意味のものをまとめて考える|
 |[048](https://atcoder.jp/contests/typical90/tasks/typical90_av)|[I will not drop out](./048.md)|★3|[👨‍🏫](https://raw.githubusercontent.com/E869120/kyopro_educational_90/main/editorial/048.jpg) / [📝](https://github.com/E869120/kyopro_educational_90/blob/main/sol/048.cpp)|上界と下界を見積もる|
 |[050](https://atcoder.jp/contests/typical90/tasks/typical90_ax)|[Stair Jump](./050.md)|★3|[👨‍🏫](https://raw.githubusercontent.com/E869120/kyopro_educational_90/main/editorial/050.jpg) / [📝](https://github.com/E869120/kyopro_educational_90/blob/main/sol/050.cpp)|漸化式を立てて DP をしよう|
-|052| | | | |
+|[052](https://atcoder.jp/contests/typical90/tasks/typical90_az)|[Dice Product](./052.md)|★3|[👨‍🏫](https://raw.githubusercontent.com/E869120/kyopro_educational_90/main/editorial/052.jpg) / [📝](https://github.com/E869120/kyopro_educational_90/blob/main/sol/052.cpp)|因数分解をしよう|
 |064| | | | |
 |069| | | | |
 |075| | | | |
