@@ -41,7 +41,7 @@ C++17 標準ライブラリの機能を優先して使い、競技プログラ�
 |[064](https://atcoder.jp/contests/typical90/tasks/typical90_bl)|[Uplift](./064.md)|★3|[👨‍🏫](https://raw.githubusercontent.com/E869120/kyopro_educational_90/main/editorial/064.jpg) / [📝](https://github.com/E869120/kyopro_educational_90/blob/main/sol/064.cpp)|階差を考えよう|
 |[069](https://atcoder.jp/contests/typical90/tasks/typical90_bq)|[Colorful Blocks 2](./069.md)|★3|[👨‍🏫](https://raw.githubusercontent.com/E869120/kyopro_educational_90/main/editorial/069.jpg) / [📝](https://github.com/E869120/kyopro_educational_90/blob/main/sol/069.cpp)|a^b mod m は繰り返し二乗法|
 |[075](https://atcoder.jp/contests/typical90/tasks/typical90_bw)|[Magic For Balls](./075.md)|★3|[👨‍🏫](https://raw.githubusercontent.com/E869120/kyopro_educational_90/main/editorial/075.jpg) / [📝](https://github.com/E869120/kyopro_educational_90/blob/main/sol/075.cpp)|O(√N) での素因数分解|
-|076| | | | |
+|[076](https://atcoder.jp/contests/typical90/tasks/typical90_bx)|[Cake Cut](./076.md)|★3|[👨‍🏫](https://raw.githubusercontent.com/E869120/kyopro_educational_90/main/editorial/076.jpg) / [📝](https://github.com/E869120/kyopro_educational_90/blob/main/sol/076.cpp)|円環を列にして二倍にする|
 |079| | | | |
 |082| | | | |
 |084| | | | |
