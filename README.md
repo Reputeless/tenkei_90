@@ -52,7 +52,7 @@ C++17 標準ライブラリの機能を優先して使い、競技プログラ�
 |:--:|--|:--:|:--:|--|
 |[001](https://atcoder.jp/contests/typical90/tasks/typical90_a)|[Yokan Party](./001.md)|★4|[👨‍🏫](https://raw.githubusercontent.com/E869120/kyopro_educational_90/main/editorial/001.jpg) / [📝](https://github.com/E869120/kyopro_educational_90/blob/main/sol/001.cpp)|答えで二分探索|
 |[003](https://atcoder.jp/contests/typical90/tasks/typical90_c)|[Longest Circular Road](./003.md)|★4|[👨‍🏫](https://raw.githubusercontent.com/E869120/kyopro_educational_90/main/editorial/003.jpg) / [📝](https://github.com/E869120/kyopro_educational_90/blob/main/sol/003.cpp)|木の直径は最短距離計算を 2 回やる|
-|008| | | | |
+|[008](https://atcoder.jp/contests/typical90/tasks/typical90_h)|[AtCounter](./008.md)|★4|[👨‍🏫](https://raw.githubusercontent.com/E869120/kyopro_educational_90/main/editorial/008.jpg) / [📝](https://github.com/E869120/kyopro_educational_90/blob/main/sol/008.cpp)|状態 DP による高速化|
 |012| | | | |
 |026| | | | |
 |028| | | | |
