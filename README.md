@@ -54,7 +54,7 @@ C++17 標準ライブラリの機能を優先して使い、競技プログラ�
 |[003](https://atcoder.jp/contests/typical90/tasks/typical90_c)|[Longest Circular Road](./003.md)|★4|[👨‍🏫](https://raw.githubusercontent.com/E869120/kyopro_educational_90/main/editorial/003.jpg) / [📝](https://github.com/E869120/kyopro_educational_90/blob/main/sol/003.cpp)|木の直径は最短距離計算を 2 回やる|
 |[008](https://atcoder.jp/contests/typical90/tasks/typical90_h)|[AtCounter](./008.md)|★4|[👨‍🏫](https://raw.githubusercontent.com/E869120/kyopro_educational_90/main/editorial/008.jpg) / [📝](https://github.com/E869120/kyopro_educational_90/blob/main/sol/008.cpp)|状態 DP による高速化|
 |[012](https://atcoder.jp/contests/typical90/tasks/typical90_l)|[Red Painting](./012.md)|★4|[👨‍🏫](https://raw.githubusercontent.com/E869120/kyopro_educational_90/main/editorial/012.jpg) / [📝](https://github.com/E869120/kyopro_educational_90/blob/main/sol/012.cpp)|連結判定は Union-Find|
-|026| | | | |
+|[026](https://atcoder.jp/contests/typical90/tasks/typical90_z)|[Independent Set on a Tree](./026.md)|★4|[👨‍🏫](https://raw.githubusercontent.com/E869120/kyopro_educational_90/main/editorial/026.jpg) / [📝](https://github.com/E869120/kyopro_educational_90/blob/main/sol/026.cpp)|二部グラフの性質を使おう|
 |028| | | | |
 |034| | | | |
 |042| | | | |
