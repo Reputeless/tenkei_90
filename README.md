@@ -55,8 +55,8 @@ C++17 標準ライブラリの機能を優先して使い、競技プログラ�
 |[008](https://atcoder.jp/contests/typical90/tasks/typical90_h)|[AtCounter](./008.md)|★4|[👨‍🏫](https://raw.githubusercontent.com/E869120/kyopro_educational_90/main/editorial/008.jpg) / [📝](https://github.com/E869120/kyopro_educational_90/blob/main/sol/008.cpp)|状態 DP による高速化|
 |[012](https://atcoder.jp/contests/typical90/tasks/typical90_l)|[Red Painting](./012.md)|★4|[👨‍🏫](https://raw.githubusercontent.com/E869120/kyopro_educational_90/main/editorial/012.jpg) / [📝](https://github.com/E869120/kyopro_educational_90/blob/main/sol/012.cpp)|連結判定は Union-Find|
 |[026](https://atcoder.jp/contests/typical90/tasks/typical90_z)|[Independent Set on a Tree](./026.md)|★4|[👨‍🏫](https://raw.githubusercontent.com/E869120/kyopro_educational_90/main/editorial/026.jpg) / [📝](https://github.com/E869120/kyopro_educational_90/blob/main/sol/026.cpp)|二部グラフの性質を使おう|
-|028| | | | |
-|034| | | | |
+|[028](https://atcoder.jp/contests/typical90/tasks/typical90_ab)|[Cluttered Paper](./028.md)|★4|[👨‍🏫](https://raw.githubusercontent.com/E869120/kyopro_educational_90/main/editorial/028.jpg) / [📝](https://github.com/E869120/kyopro_educational_90/blob/main/sol/028.cpp)|領域加算は二次元いもす法|
+|[034](https://atcoder.jp/contests/typical90/tasks/typical90_ah)|[There are few types of elements](./034.md)|★4|[👨‍🏫](https://raw.githubusercontent.com/E869120/kyopro_educational_90/main/editorial/034.jpg) / [📝](https://github.com/E869120/kyopro_educational_90/blob/main/sol/034.cpp)|単調性を利用した尺取り法|
 |042| | | | |
 |043| | | | |
 |058| | | | |
