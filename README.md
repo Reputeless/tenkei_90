@@ -57,8 +57,8 @@ C++17 標準ライブラリの機能を優先して使い、競技プログラ�
 |[026](https://atcoder.jp/contests/typical90/tasks/typical90_z)|[Independent Set on a Tree](./026.md)|★4|[👨‍🏫](https://raw.githubusercontent.com/E869120/kyopro_educational_90/main/editorial/026.jpg) / [📝](https://github.com/E869120/kyopro_educational_90/blob/main/sol/026.cpp)|二部グラフの性質を使おう|
 |[028](https://atcoder.jp/contests/typical90/tasks/typical90_ab)|[Cluttered Paper](./028.md)|★4|[👨‍🏫](https://raw.githubusercontent.com/E869120/kyopro_educational_90/main/editorial/028.jpg) / [📝](https://github.com/E869120/kyopro_educational_90/blob/main/sol/028.cpp)|領域加算は二次元いもす法|
 |[034](https://atcoder.jp/contests/typical90/tasks/typical90_ah)|[There are few types of elements](./034.md)|★4|[👨‍🏫](https://raw.githubusercontent.com/E869120/kyopro_educational_90/main/editorial/034.jpg) / [📝](https://github.com/E869120/kyopro_educational_90/blob/main/sol/034.cpp)|単調性を利用した尺取り法|
-|042| | | | |
-|043| | | | |
+|[042](https://atcoder.jp/contests/typical90/tasks/typical90_ap)|[Multiple of 9](./042.md)|★4|[👨‍🏫](https://raw.githubusercontent.com/E869120/kyopro_educational_90/main/editorial/042.jpg) / [📝](https://github.com/E869120/kyopro_educational_90/blob/main/sol/042.cpp)|9 の倍数の性質|
+|[043](https://atcoder.jp/contests/typical90/tasks/typical90_aq)|[Maze Challenge with Lack of Sleep](./043.md)|★4|[👨‍🏫](https://raw.githubusercontent.com/E869120/kyopro_educational_90/main/editorial/043.jpg) / [📝](https://github.com/E869120/kyopro_educational_90/blob/main/sol/043.cpp)|拡張 BFS・ダイクストラ|
 |058| | | | |
 |063| | | | |
 |070| | | | |
