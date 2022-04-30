@@ -73,7 +73,7 @@ C++17 標準ライブラリの機能を優先して使い、競技プログラ�
 |006| | | | |
 |013| | | | |
 |021| | | | |
-|029| | | | |
+|[029](https://atcoder.jp/contests/typical90/tasks/typical90_ac)|[Long Bricks](./029.md)|★5|(1) [👨‍🏫](https://raw.githubusercontent.com/E869120/kyopro_educational_90/main/editorial/029-01.jpg) / [📝](https://github.com/E869120/kyopro_educational_90/blob/main/sol/029-01.cpp), [📝](https://github.com/E869120/kyopro_educational_90/blob/main/sol/029-02.cpp)<br>(2) [👨‍🏫](https://raw.githubusercontent.com/E869120/kyopro_educational_90/main/editorial/029-02.jpg) / [📝](https://github.com/E869120/kyopro_educational_90/blob/main/sol/029-03.cpp)|(解法 1) 「座標圧縮」で効率化<br>(解法 2) 区間に対する処理は「セグメント木」|
 |030| | | | |
 |036| | | | |
 |[037](https://atcoder.jp/contests/typical90/tasks/typical90_ak)|[Don't Leave the Spice](./037.md)|★5|[👨‍🏫](https://raw.githubusercontent.com/E869120/kyopro_educational_90/main/editorial/037.jpg) / [📝](https://github.com/E869120/kyopro_educational_90/blob/main/sol/037.cpp)|DP をセグメント木で高速化|
