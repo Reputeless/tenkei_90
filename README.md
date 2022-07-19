@@ -59,7 +59,7 @@ C++17 標準ライブラリの機能を優先して使い、競技プログラ�
 |[034](https://atcoder.jp/contests/typical90/tasks/typical90_ah)|[There are few types of elements](./034.md)|★4|[👨‍🏫](https://raw.githubusercontent.com/E869120/kyopro_educational_90/main/editorial/034.jpg) / [📝](https://github.com/E869120/kyopro_educational_90/blob/main/sol/034.cpp)|単調性を利用した尺取り法|
 |[042](https://atcoder.jp/contests/typical90/tasks/typical90_ap)|[Multiple of 9](./042.md)|★4|[👨‍🏫](https://raw.githubusercontent.com/E869120/kyopro_educational_90/main/editorial/042.jpg) / [📝](https://github.com/E869120/kyopro_educational_90/blob/main/sol/042.cpp)|9 の倍数の性質|
 |[043](https://atcoder.jp/contests/typical90/tasks/typical90_aq)|[Maze Challenge with Lack of Sleep](./043.md)|★4|[👨‍🏫](https://raw.githubusercontent.com/E869120/kyopro_educational_90/main/editorial/043.jpg) / [📝](https://github.com/E869120/kyopro_educational_90/blob/main/sol/043.cpp)|拡張 BFS・ダイクストラ|
-|058| | | | |
+|[058](https://atcoder.jp/contests/typical90/tasks/typical90_bf)|[Original Calculator](./058.md)|★4|[👨‍🏫](https://raw.githubusercontent.com/E869120/kyopro_educational_90/main/editorial/058.jpg) / [📝](https://github.com/E869120/kyopro_educational_90/blob/main/sol/058.cpp)|周期性を考える|
 |063| | | | |
 |070| | | | |
 |072| | | | |
