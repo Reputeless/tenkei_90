@@ -61,7 +61,7 @@ C++17 標準ライブラリの機能を優先して使い、競技プログラ�
 |[043](https://atcoder.jp/contests/typical90/tasks/typical90_aq)|[Maze Challenge with Lack of Sleep](./043.md)|★4|[👨‍🏫](https://raw.githubusercontent.com/E869120/kyopro_educational_90/main/editorial/043.jpg) / [📝](https://github.com/E869120/kyopro_educational_90/blob/main/sol/043.cpp)|拡張 BFS・ダイクストラ|
 |[058](https://atcoder.jp/contests/typical90/tasks/typical90_bf)|[Original Calculator](./058.md)|★4|[👨‍🏫](https://raw.githubusercontent.com/E869120/kyopro_educational_90/main/editorial/058.jpg) / [📝](https://github.com/E869120/kyopro_educational_90/blob/main/sol/058.cpp)|周期性を考える|
 |[063](https://atcoder.jp/contests/typical90/tasks/typical90_bk)|[Monochromatic Subgrid](./063.md)|★4|[👨‍🏫](https://raw.githubusercontent.com/E869120/kyopro_educational_90/main/editorial/063.jpg) / [📝](https://github.com/E869120/kyopro_educational_90/blob/main/sol/063.cpp)|変な制約に着目する / 状態数が少ない変量を全探索|
-|070| | | | |
+|[070](https://atcoder.jp/contests/typical90/tasks/typical90_br)|[Plant Planning](./070.md)|★4|[👨‍🏫](https://raw.githubusercontent.com/E869120/kyopro_educational_90/main/editorial/070.jpg) / [📝](https://github.com/E869120/kyopro_educational_90/blob/main/sol/070.cpp)|x, y 独立に考える|
 |072| | | | |
 |085| | | | |
 
