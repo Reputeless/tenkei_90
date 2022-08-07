@@ -71,7 +71,7 @@ C++17 標準ライブラリの機能を優先して使い、競技プログラ�
 |問題|タイトル (解答コードへのリンク)|難易度|公式解説|キーワード (公式解説から引用)|
 |:--:|--|:--:|:--:|--|
 |006| | | | |
-|[013](https://atcoder.jp/contests/typical90/tasks/typical90_m)|[Passing](./036.md)|★5|[👨‍🏫](https://raw.githubusercontent.com/E869120/kyopro_educational_90/main/editorial/013.jpg) / [📝](https://github.com/E869120/kyopro_educational_90/blob/main/sol/013.cpp)|各頂点への最短経路はダイクストラ|
+|[013](https://atcoder.jp/contests/typical90/tasks/typical90_m)|[Passing](./013.md)|★5|[👨‍🏫](https://raw.githubusercontent.com/E869120/kyopro_educational_90/main/editorial/013.jpg) / [📝](https://github.com/E869120/kyopro_educational_90/blob/main/sol/013.cpp)|各頂点への最短経路はダイクストラ|
 |021| | | | |
 |[029](https://atcoder.jp/contests/typical90/tasks/typical90_ac)|[Long Bricks](./029.md)|★5|(1) [👨‍🏫](https://raw.githubusercontent.com/E869120/kyopro_educational_90/main/editorial/029-01.jpg) / [📝](https://github.com/E869120/kyopro_educational_90/blob/main/sol/029-01.cpp),[📝](https://github.com/E869120/kyopro_educational_90/blob/main/sol/029-02.cpp)<br>(2) [👨‍🏫](https://raw.githubusercontent.com/E869120/kyopro_educational_90/main/editorial/029-02.jpg) / [📝](https://github.com/E869120/kyopro_educational_90/blob/main/sol/029-03.cpp)|(解法 1) 「座標圧縮」で効率化<br>(解法 2) 区間に対する処理は「セグメント木」|
 |030| | | | |
