@@ -80,7 +80,7 @@ C++17 標準ライブラリの機能を優先して使い、競技プログラ�
 |039| | | | |
 |051| | | | |
 |056| | | | |
-|060| | | | |
+|[060](https://atcoder.jp/contests/typical90/tasks/typical90_bh)|[Chimera](./060.md)|★5|[👨‍🏫](https://raw.githubusercontent.com/E869120/kyopro_educational_90/main/editorial/060.jpg) / [📝](https://github.com/E869120/kyopro_educational_90/blob/main/sol/060.cpp)|両側から考える / 最長増加部分列|
 |[066](https://atcoder.jp/contests/typical90/tasks/typical90_bn)|[Various Arrays](./066.md)|★5|[👨‍🏫](https://raw.githubusercontent.com/E869120/kyopro_educational_90/main/editorial/066.jpg) / [📝](https://github.com/E869120/kyopro_educational_90/blob/main/sol/066a.cpp),[📝](https://github.com/E869120/kyopro_educational_90/blob/main/sol/066b.cpp)|期待値の線形性|
 |068| | | | |
 |073| | | | |
