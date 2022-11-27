@@ -43,7 +43,7 @@ C++17 標準ライブラリの機能を優先して使い、競技プログラ�
 |[075](https://atcoder.jp/contests/typical90/tasks/typical90_bw)|[Magic For Balls](./075.md)|★3|[👨‍🏫](https://raw.githubusercontent.com/E869120/kyopro_educational_90/main/editorial/075.jpg) / [📝](https://github.com/E869120/kyopro_educational_90/blob/main/sol/075.cpp)|O(√N) での素因数分解|
 |[076](https://atcoder.jp/contests/typical90/tasks/typical90_bx)|[Cake Cut](./076.md)|★3|[👨‍🏫](https://raw.githubusercontent.com/E869120/kyopro_educational_90/main/editorial/076.jpg) / [📝](https://github.com/E869120/kyopro_educational_90/blob/main/sol/076.cpp)|円環を列にして二倍にする|
 |[079](https://atcoder.jp/contests/typical90/tasks/typical90_ca)|[Two by Two](./079.md)|★3|[👨‍🏫](https://raw.githubusercontent.com/E869120/kyopro_educational_90/main/editorial/079.jpg) / [📝](https://github.com/E869120/kyopro_educational_90/blob/main/sol/079.cpp)|操作順序によらない|
-|[082](https://atcoder.jp/contests/typical90/tasks/typical90_cd)|[Counting Numbers](./082.md)|★3|[👨‍🏫](https://raw.githubusercontent.com/E869120/kyopro_educational_90/main/editorial/082.jpg) / [📝](https://github.com/E869120/kyopro_educational_90/blob/main/sol/082a.cpp)|部分問題に分解する/数列の和の公式|
+|[082](https://atcoder.jp/contests/typical90/tasks/typical90_cd)|[Counting Numbers](./082.md)|★3|[👨‍🏫](https://raw.githubusercontent.com/E869120/kyopro_educational_90/main/editorial/082.jpg) / [📝](https://github.com/E869120/kyopro_educational_90/blob/main/sol/082a.cpp)|部分問題に分解する / 数列の和の公式|
 |[084](https://atcoder.jp/contests/typical90/tasks/typical90_cf)|[There are two types of characters](./084.md)|★3|(1) [👨‍🏫](https://raw.githubusercontent.com/E869120/kyopro_educational_90/main/editorial/084-01.jpg) / [📝](https://github.com/E869120/kyopro_educational_90/blob/main/sol/084-01.cpp)<br>(2) [👨‍🏫](https://raw.githubusercontent.com/E869120/kyopro_educational_90/main/editorial/084-02.jpg) / [📝](https://github.com/E869120/kyopro_educational_90/blob/main/sol/084-02.cpp)|(解法 1) ランレングス圧縮<br>(解法 2) 累積的に計算しよう|
 
 ### ★4
@@ -62,15 +62,15 @@ C++17 標準ライブラリの機能を優先して使い、競技プログラ�
 |[058](https://atcoder.jp/contests/typical90/tasks/typical90_bf)|[Original Calculator](./058.md)|★4|[👨‍🏫](https://raw.githubusercontent.com/E869120/kyopro_educational_90/main/editorial/058.jpg) / [📝](https://github.com/E869120/kyopro_educational_90/blob/main/sol/058.cpp)|周期性を考える|
 |[063](https://atcoder.jp/contests/typical90/tasks/typical90_bk)|[Monochromatic Subgrid](./063.md)|★4|[👨‍🏫](https://raw.githubusercontent.com/E869120/kyopro_educational_90/main/editorial/063.jpg) / [📝](https://github.com/E869120/kyopro_educational_90/blob/main/sol/063.cpp)|変な制約に着目する / 状態数が少ない変量を全探索|
 |[070](https://atcoder.jp/contests/typical90/tasks/typical90_br)|[Plant Planning](./070.md)|★4|[👨‍🏫](https://raw.githubusercontent.com/E869120/kyopro_educational_90/main/editorial/070.jpg) / [📝](https://github.com/E869120/kyopro_educational_90/blob/main/sol/070.cpp)|x, y 独立に考える|
-|072| | | | |
-|085| | | | |
+|[072](https://atcoder.jp/contests/typical90/tasks/typical90_bt)|Loop Railway Plan|★4|[👨‍🏫](https://raw.githubusercontent.com/E869120/kyopro_educational_90/main/editorial/072.jpg) / [📝](https://github.com/E869120/kyopro_educational_90/blob/main/sol/072.cpp)|"何通りか" の感覚 / バックトラック|
+|[085](https://atcoder.jp/contests/typical90/tasks/typical90_cg)|Multiplication 085|★4|[👨‍🏫](https://raw.githubusercontent.com/E869120/kyopro_educational_90/main/editorial/085-01.jpg), [👨‍🏫](https://raw.githubusercontent.com/E869120/kyopro_educational_90/main/editorial/085-02.jpg) / [📝](https://github.com/E869120/kyopro_educational_90/blob/main/sol/085.cpp)|約数の個数は少ない / 工夫した全探索 / 約数列挙の復習|
 
 
 ### ★5
 
 |問題|タイトル (解答コードへのリンク)|難易度|公式解説|キーワード (公式解説から引用)|
 |:--:|--|:--:|:--:|--|
-|006| | | | |
+|[006](https://atcoder.jp/contests/typical90/tasks/typical90_f)|Smallest Subsequence|★5|[👨‍🏫](https://raw.githubusercontent.com/E869120/kyopro_educational_90/main/editorial/006.jpg) / [📝](https://github.com/E869120/kyopro_educational_90/blob/main/sol/006.cpp)|辞書順最小は前から貪欲法|
 |[013](https://atcoder.jp/contests/typical90/tasks/typical90_m)|[Passing](./013.md)|★5|[👨‍🏫](https://raw.githubusercontent.com/E869120/kyopro_educational_90/main/editorial/013.jpg) / [📝](https://github.com/E869120/kyopro_educational_90/blob/main/sol/013.cpp)|各頂点への最短経路はダイクストラ|
 |021| | | | |
 |[029](https://atcoder.jp/contests/typical90/tasks/typical90_ac)|[Long Bricks](./029.md)|★5|(1) [👨‍🏫](https://raw.githubusercontent.com/E869120/kyopro_educational_90/main/editorial/029-01.jpg) / [📝](https://github.com/E869120/kyopro_educational_90/blob/main/sol/029-01.cpp),[📝](https://github.com/E869120/kyopro_educational_90/blob/main/sol/029-02.cpp)<br>(2) [👨‍🏫](https://raw.githubusercontent.com/E869120/kyopro_educational_90/main/editorial/029-02.jpg) / [📝](https://github.com/E869120/kyopro_educational_90/blob/main/sol/029-03.cpp)|(解法 1) 「座標圧縮」で効率化<br>(解法 2) 区間に対する処理は「セグメント木」|
