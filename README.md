@@ -77,7 +77,7 @@ C++17 標準ライブラリの機能を優先して使い、競技プログラ�
 |030| | | | |
 |[036](https://atcoder.jp/contests/typical90/tasks/typical90_aj)|[Max Manhattan Distance](./036.md)|★5|[👨‍🏫](https://raw.githubusercontent.com/E869120/kyopro_educational_90/main/editorial/036.jpg) / [📝](https://github.com/E869120/kyopro_educational_90/blob/main/sol/036.cpp)|マンハッタン距離は 45 度回転|
 |[037](https://atcoder.jp/contests/typical90/tasks/typical90_ak)|[Don't Leave the Spice](./037.md)|★5|[👨‍🏫](https://raw.githubusercontent.com/E869120/kyopro_educational_90/main/editorial/037.jpg) / [📝](https://github.com/E869120/kyopro_educational_90/blob/main/sol/037.cpp)|DP をセグメント木で高速化|
-|039| | | | |
+|[039](https://atcoder.jp/contests/typical90/tasks/typical90_am)|[Tree Distance](./039.md)|★5|[👨‍🏫](https://raw.githubusercontent.com/E869120/kyopro_educational_90/main/editorial/039.jpg) / [📝](https://github.com/E869120/kyopro_educational_90/blob/main/sol/039.cpp)|答えへの貢献度を考える|
 |051| | | | |
 |056| | | | |
 |[060](https://atcoder.jp/contests/typical90/tasks/typical90_bh)|[Chimera](./060.md)|★5|[👨‍🏫](https://raw.githubusercontent.com/E869120/kyopro_educational_90/main/editorial/060.jpg) / [📝](https://github.com/E869120/kyopro_educational_90/blob/main/sol/060.cpp)|両側から考える / 最長増加部分列|
