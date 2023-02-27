@@ -93,6 +93,7 @@ C++17 標準ライブラリの機能を優先して使い、競技プログラ�
 
 |問題|タイトル (解答コードへのリンク)|難易度|公式解説|キーワード (公式解説から引用)|
 |:--:|--|:--:|:--:|--|
+|[019](https://atcoder.jp/contests/typical90/tasks/typical90_s)|[Pick Two](./019.md)|★6|[👨‍🏫](https://raw.githubusercontent.com/E869120/kyopro_educational_90/main/editorial/019.jpg) / [📝](https://github.com/E869120/kyopro_educational_90/blob/main/sol/019.cpp)|列の操作は区間 DP|
 
 ### ★7
 
